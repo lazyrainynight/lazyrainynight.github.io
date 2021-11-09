@@ -56331,7 +56331,7 @@ F.rH.prototype={
 aL(){return new F.Hm(C.n)}}
 F.Hm.prototype={
 S(a,b){var s=X.aaN(C.h5,C.V,C.h5,C.F8,new R.oh(C.F3,C.F4,C.F6),C.KX)
-return new S.rs(P.aA(["/",new F.a0r(),"/about",new F.a0s()],t.N,t.hw),"/","SS Converter",s,null)}}
+return new S.rs(P.aA(["/",new F.a0r(),"/about",new F.a0s()],t.N,t.hw),"/","SS Converter v1.0.2",s,null)}}
 F.a0r.prototype={
 $1(a){return C.Fj},
 $S:332}
